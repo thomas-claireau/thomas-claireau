@@ -55,10 +55,12 @@
 <br />
 <br />
 
-### ⚡ Dernières activités
+### ⚡ Derniers projets
+
+<!-- PROJECT:START -->
+<!-- PROJECT:END -->
+
+### ⚡ Derniers articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Intégration web de l'ancien site Lego](https://thomas-claireau.com/projets/lego-integration)
-- [Projets du challenge freeCodeCamp](https://thomas-claireau.com/projets/projets-freecodecamp)
-- [Projets de formation chez Openclassrooms](https://thomas-claireau.com/projets/projets-openclassrooms)
 <!-- BLOG-POST-LIST:END -->

@@ -1,15 +1,15 @@
-name: Latest blog post workflow
+name: Latest project workflow
 on:
   schedule: # Run workflow automatically
     - cron: "0 * * * *" # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest project
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "BLOG-POST-LIST"
-          feed_list: "https://thomas-claireau.com/feed/posts.xml"
+          comment_tag_name: "PROJECT"
+          feed_list: "https://thomas-claireau.com/feed/projects.xml"
