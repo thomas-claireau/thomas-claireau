@@ -58,8 +58,7 @@
 ### ⚡ Dernières activités
 
 <!-- BLOG-POST-LIST:START -->
-
--   [Intégration web de l'ancien site Lego](https://thomas-claireau.com/lego-integration)
--   [Projets du challenge freeCodeCamp](https://thomas-claireau.com/projets-freecodecamp)
--   [Projets de formation chez Openclassrooms](https://thomas-claireau.com/projets-openclassrooms)
+- [Intégration web de l'ancien site Lego](https://thomas-claireau.com/projets/lego-integration)
+- [Projets du challenge freeCodeCamp](https://thomas-claireau.com/projets/projets-freecodecamp)
+- [Projets de formation chez Openclassrooms](https://thomas-claireau.com/projets/projets-openclassrooms)
 <!-- BLOG-POST-LIST:END -->
