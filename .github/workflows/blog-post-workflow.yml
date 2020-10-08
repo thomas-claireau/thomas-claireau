@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://thomas-claireau.com/feed/projects.xml"
+          feed_list: "https://thomas-claireau.com/feed/projects.xml, https://thomas-claireau.com/feed/posts.xml"
