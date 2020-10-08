@@ -64,8 +64,6 @@
 -   [Projets de formation chez Openclassrooms](https://thomas-claireau.com/projets/projets-openclassrooms)
 <!-- PROJECT:END -->
 
----
-
 <!-- ### ⚡ Derniers articles -->
 
 <!-- BLOG-POST-LIST:START -->
