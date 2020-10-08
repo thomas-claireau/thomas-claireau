@@ -5,7 +5,10 @@
 
 -   🌍 Je viens de lancer mon portfolio : [thomas-claireau.com](https://thomas-claireau.com)
 -   🌱 Autodidacte, je suis tout le temps en train d'apprendre
--   🥅 Objectifs de 2020 : projet e-commerce sur Strapi / Vue JS et contribuer davantage à l'Open Source
+-   🥅 Objectifs de 2020 :
+    -   Projet e-commerce sur Strapi / Vue JS
+    -   Mentor chez Openclassrooms
+    -   Contribuer davantage à l'Open Source
 -   ⚡ Passion : J'adore le sport et surtout le tennis 🎾
 
 ### Rentrons en contact !
