@@ -64,7 +64,15 @@
 -   [Projets de formation chez Openclassrooms](https://thomas-claireau.com/projets/projets-openclassrooms)
 <!-- PROJECT:END -->
 
+---
+
 <!-- ### ⚡ Derniers articles -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📈 Github Stats
+
+<img align="left" alt="Thomas Claireau's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thomas-claireau&show_icons=true&hide_border=true" />
