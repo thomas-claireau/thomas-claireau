@@ -73,4 +73,4 @@
 
 ### 📈 Github Stats
 
-<img align="left" alt="Thomas Claireau's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thomas-claireau&show_icons=true&hide_border=true&hide=contribs" />
+<img align="left" alt="Thomas Claireau's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thomas-claireau&show_icons=true&hide_border=true&hide=contribs&theme=radical" />
