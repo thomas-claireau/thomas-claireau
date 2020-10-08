@@ -7,7 +7,7 @@
 -   🌱 Autodidacte, je suis tout le temps en train d'apprendre
 -   🥅 Objectifs de 2020 :
     -   Projet e-commerce sur Strapi / Vue JS
-    -   Mentor chez Openclassrooms
+    -   Devenir mentor chez Openclassrooms
     -   Contribuer davantage à l'Open Source
 -   ⚡ Passion : J'adore le sport et surtout le tennis 🎾
 
