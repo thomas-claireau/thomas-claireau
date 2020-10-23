@@ -13,6 +13,7 @@
 
 ### Rentrons en contact !
 
+[<img align="left" alt="gitlab-thomas-claireau.com" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />](https://gitlab.com/thomas-claireau)
 [<img align="left" alt="thomas-claireau.com" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://thomas-claireau.com)
 [<img align="left" alt="thomas_claireau | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/thomas_claireau)
 [<img align="left" alt="thomas-claireau | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/thomas-claireau/)
